@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "VBA"
 Sub Original_code()
     Dim ws As Worksheet
     Dim Ticker As String
