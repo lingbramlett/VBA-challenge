@@ -1,2 +1,2 @@
 # VBA-challenge
-Homework
+Using VBA made a system that used tickers and changed the colors based on the conditions given.
